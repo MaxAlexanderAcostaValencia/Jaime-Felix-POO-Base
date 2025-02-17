@@ -12,6 +12,8 @@ classDiagram
       class Principal
       Principal: -atributos
       Principal: +metodos()
+      Principal: variables
+      
 ```
 [Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 
